@@ -1220,6 +1220,7 @@ _Tools which mock collaborators to help testing single, isolated units._
 - [MockServer](https://github.com/mock-server/mockserver-monorepo) - Allows mocking of systems integrated with HTTPS.
 - [Moco](https://github.com/dreamhead/moco) - Concise web services for stubs and mocks.
 - [WireMock](https://github.com/wiremock/wiremock) - Stubs and mocks web services.
+- [Keploy Java SDK](https://github.com/keploy/java-sdk) - Java SDK for Keploy, which generates API tests and dependency mocks from real traffic.
 - [EasyMock](https://github.com/easymock/easymock) - EasyMock is a Java library that provides an easy way to use Mock Objects in unit testing.
 
 #### Performance
